@@ -219,9 +219,7 @@ npm start
 - **Internationalization**: Multi-language support
 - **Advanced Filtering**: Transaction search and categorization
 
-## 📄 License
 
-This project is built for demonstration purposes as part of a technical assessment.
 
 ---
 
