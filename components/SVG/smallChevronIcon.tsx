@@ -1,0 +1,16 @@
+import React from "react";
+
+interface IconProps {
+    width?: string;
+    height?: string;
+}
+
+const SmallChevronIcon: React.FC<IconProps> = ({ width, height }) => {
+    return (
+        <svg width="6" height="9" viewBox="0 0 6 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M3.3 4.24267L0 0.942667L0.942666 0L5.18533 4.24267L0.942666 8.48533L0 7.54267L3.3 4.24267Z" fill="#535D66" />
+        </svg>
+    );
+};
+
+export default SmallChevronIcon;
